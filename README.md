@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nutan Sawant
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Java Full Stack Development
 - 📫 Reach me at nutansawant28042001@gmail.com
 
 <!---
